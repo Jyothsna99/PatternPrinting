@@ -1,0 +1,2 @@
+# PatternPrinting
+Generally we first understand the programming problem and then we apply the required strategy to solve the problem,but this is a very special problem.Understanding this problem plays a major role,we need to write the code to this problem by decoding the given output.To know the further information about this problem refer 'pattern_printing_explanation.docx' .After reading and understanding the problem if u face any difficulties to solve this problem refer 'pattern_printing.c'
